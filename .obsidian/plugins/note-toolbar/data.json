@@ -1,0 +1,394 @@
+{
+  "export": {
+    "includeIcons": true,
+    "replaceVars": true,
+    "useDataEls": true,
+    "useIds": true
+  },
+  "folderMappings": [
+    {
+      "folder": "*",
+      "toolbar": "f0afd5da-7c78-4d36-a24f-e59c13e78177"
+    }
+  ],
+  "icon": "circle-ellipsis",
+  "ribbonAction": "toolbar",
+  "showEditInFabMenu": false,
+  "toolbarProp": "notetoolbar",
+  "toolbars": [
+    {
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [
+        {
+          "label": "",
+          "icon": "lucide-home",
+          "link": "0. Home Page.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "Home",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "uuid": "c9a0f7be-6071-4504-8a86-ba981ae072ca"
+        },
+        {
+          "uuid": "21ffaeb1-8013-4990-a675-dc17ddecf9e9",
+          "label": "",
+          "icon": "lucide-scatter-chart",
+          "link": "Graph view: Open graph view",
+          "linkAttr": {
+            "commandId": "graph:open",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "Graph View",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "3ee299bc-eec0-4f24-b374-2c490cd71666",
+          "label": "",
+          "icon": "",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "separator"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "c776c44c-5dac-4e52-b066-b13b0180c0c3",
+          "label": "",
+          "icon": "lucide-newspaper",
+          "link": "https://docs.google.com/document/d/1ncn5iOT9vwp_4L_urCv7U2dR8FLPSRaUV-hWrmsCe5w/edit?pli=1&tab=t.594bw0c7qmgh",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "uri"
+          },
+          "tooltip": "GDD",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "439828ca-3b52-4a0e-a44e-bdf5f694d326",
+          "label": "",
+          "icon": "lucide-badge-dollar-sign",
+          "link": "https://drive.google.com/drive/folders/1Sunoe8veSrGTzgSh71B6BDkqL2oj4Gam?usp=drive_link",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "uri"
+          },
+          "tooltip": "Finance",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "eb7fc614-8572-4296-a3ec-f8a57791dda7",
+          "label": "",
+          "icon": "lucide-twitter",
+          "link": "https://docs.google.com/spreadsheets/d/1jr0KIV-fvhfnbQbfazLvcdTY5azfhBlDKltU-S3kT2k/edit?usp=sharing",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "uri"
+          },
+          "tooltip": "Social Media Planner",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "9d13f61d-901a-4b60-9162-026a595030d4",
+          "label": "",
+          "icon": "",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "separator"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "label": "",
+          "icon": "lucide-users-2",
+          "link": "https://docs.google.com/spreadsheets/d/1JBGRNii9nj2No0C6pj2D808Df2v-eqV6CoE5wE7I5-M/edit?gid=1665693143#gid=1665693143",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "uri"
+          },
+          "tooltip": "Character Plotter",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "uuid": "28f5ed61-a3dc-49c6-b6df-c1627fd3812c"
+        },
+        {
+          "label": "",
+          "icon": "lucide-shopping-cart",
+          "link": "https://docs.google.com/document/d/1ncn5iOT9vwp_4L_urCv7U2dR8FLPSRaUV-hWrmsCe5w/edit?pli=1&tab=t.byn9ipnmjl0w",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "uri"
+          },
+          "tooltip": "Marketing Plan",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "uuid": "1e63f484-0316-4e4f-9584-1e8404beb2a9"
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Game Design Bar",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "top"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "top"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "top"
+          }
+        }
+      },
+      "updated": "2025-02-27T02:31:04.683Z",
+      "uuid": "f0afd5da-7c78-4d36-a24f-e59c13e78177"
+    }
+  ],
+  "version": 20240727.1,
+  "whatsnew_version": 1.14
+}

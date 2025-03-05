@@ -1,0 +1,321 @@
+{
+  "main": {
+    "id": "386edf81dc221990",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f989ed381d167b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b55028795478e03a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Home Page.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0. Home Page"
+            }
+          },
+          {
+            "id": "d603b19a0b338eb1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Mechanics/Combat Cinematics Flowchart.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Combat Cinematics Flowchart"
+            }
+          },
+          {
+            "id": "a8a242d671387b96",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "953a287bf31c0a84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quests/Limited Time Event.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Limited Time Event"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "acedb22f28ec3176",
+    "type": "split",
+    "children": [
+      {
+        "id": "f42309db3fc7ac5a",
+        "type": "tabs",
+        "dimension": 78.62932940309506,
+        "children": [
+          {
+            "id": "00258a38e2509e53",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "27e2daf17783ee4b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "e50fc19c08533d91",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6ca57fa3637c7e4e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bfd9cdcaaf32b64d",
+            "type": "leaf",
+            "state": {
+              "type": "graph-presets-list",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      },
+      {
+        "id": "011002ff641d9b5c",
+        "type": "tabs",
+        "dimension": 21.370670596904937,
+        "children": [
+          {
+            "id": "05fc8f1bdccc4ed2",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "0115175bf403036c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Locations/Out of Bounds.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Out of Bounds"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "90768fef57016c82",
+    "type": "split",
+    "children": [
+      {
+        "id": "04c2f93cdc176ea0",
+        "type": "tabs",
+        "dimension": 24.928571428571427,
+        "children": [
+          {
+            "id": "2094d2449cdd9a1c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0. Home Page.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 0. Home Page"
+            }
+          },
+          {
+            "id": "db11d021729a9a3f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0. Home Page.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 0. Home Page"
+            }
+          }
+        ]
+      },
+      {
+        "id": "552cf27981666e59",
+        "type": "tabs",
+        "dimension": 75.07142857142857,
+        "children": [
+          {
+            "id": "520f5e7e539e3293",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "48886336c83750ae",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-chat-gpt",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 762.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "callout-manager:Insert Callout": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-custom-frames:Open Chat GPT": false,
+      "obsidian-graph-presets:Graph Presets": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "a8a242d671387b96",
+  "lastOpenFiles": [
+    "Mechanics/Combat Cinematics Flowchart.md",
+    "0. Home Page.md",
+    "Quests/Phase 1.md",
+    "Quests/Limited Time Event.md",
+    "Enemies/The Original Sin.md",
+    "Locations/Upside-down Castle.md",
+    "Locations/Hub Town.md",
+    "Characters/Balmung.md",
+    "1. Images/Combat Background Cinematic/Unused/Critical - Both.png",
+    "1. Images/Combat Background Cinematic/Ultimate Tech.gif",
+    "Locations/Dev Area.md",
+    "Characters/William.md",
+    "Locations/Radio Tower.md",
+    "Quests/For the Birds.md",
+    "Locations/Church.md",
+    "Locations/Cyber Slum.md",
+    "1. Images/Helba/m2-res_1080p.mp4",
+    "Enemies/Sea Monster.md",
+    "Characters/Hatobu.md",
+    "1. Images/Combat Background Cinematic/perfect parry.gif",
+    "1. Images/Combat Background Cinematic/Critical - Both.png",
+    "1. Images/Combat Background Cinematic/75hp both.jpg",
+    "1. Images/Combat Background Cinematic/Unused/1330x1000_7.gif",
+    "1. Images/Combat Background Cinematic/Unused/1330x1000_6.gif",
+    "1. Images/Combat Background Cinematic/Unused/2025-02-22_17-58-07.jpg",
+    "1. Images/Combat Background Cinematic/Unused/1330x1000_10.gif",
+    "1. Images/Combat Background Cinematic/Unused/1330x1000_9.gif",
+    "1. Images/Combat Background Cinematic/Unused",
+    "1. Images/Combat Background Cinematic/New folder",
+    "Scenes/To Sort/8 Waves Ending.md",
+    "zz-To-Sort/Marketing Plan.md",
+    "zz-To-Sort/GDD Examples.md",
+    "Concept Drawings/Drawing 2025-01-12 21.50.52.excalidraw.md",
+    "Mechanics/To Sort/Drawing 2025-02-14 19.31.16.excalidraw.md",
+    "zz-To-Sort/Drawing 2024-12-01 01.10.43.excalidraw.md",
+    "zz-To-Sort/Dialogue Ideas.md",
+    "zz-To-Sort/Character Ideas.md",
+    "zz-To-Sort/AI Art Prompts.md",
+    "Characters/Helba.md",
+    "1. Images/zz-To Sort/e6u9i4fijz8e1.jfif",
+    "1. Images/Swap of Rot",
+    "1. Images/New folder",
+    "1. Images/Abomination",
+    "1. Images/Helba/kud7hc62ggee1.mp4",
+    "1. Images/zz-To Sort/Sotyboarding",
+    "1. Images/zz-To Sort/Magic System",
+    "Otakon Stuff/Untitled.canvas"
+  ]
+}

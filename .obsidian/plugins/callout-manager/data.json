@@ -1,0 +1,183 @@
+{
+  "callouts": {
+    "custom": [
+      "music",
+      "main-plot",
+      "lore",
+      "hidden-plot",
+      "footage",
+      "character-stats",
+      "dialogue-info",
+      "key-takeaways",
+      "roll-for-me",
+      "puzzle",
+      "setting",
+      "links",
+      "characters",
+      "design",
+      "tools",
+      "characteristics",
+      "image",
+      "profile",
+      "rewards"
+    ],
+    "settings": {
+      "music": [
+        {
+          "changes": {
+            "icon": "lucide-music",
+            "color": "211, 158, 255"
+          }
+        }
+      ],
+      "main-plot": [
+        {
+          "changes": {
+            "icon": "lucide-land-plot",
+            "color": "213, 93, 181"
+          }
+        }
+      ],
+      "lore": [
+        {
+          "changes": {
+            "icon": "lucide-brain",
+            "color": "168, 130, 255"
+          }
+        }
+      ],
+      "hidden-plot": [
+        {
+          "changes": {
+            "icon": "lucide-ghost",
+            "color": "233, 181, 37"
+          }
+        }
+      ],
+      "footage": [
+        {
+          "changes": {
+            "icon": "lucide-film",
+            "color": "68, 207, 110"
+          }
+        }
+      ],
+      "character-stats": [
+        {
+          "changes": {
+            "icon": "lucide-axe",
+            "color": "68, 207, 110"
+          }
+        }
+      ],
+      "dialogue-info": [
+        {
+          "changes": {
+            "icon": "lucide-quote",
+            "color": "82, 139, 212"
+          }
+        }
+      ],
+      "key-takeaways": [
+        {
+          "changes": {
+            "icon": "lucide-key-round",
+            "color": "233, 151, 63"
+          }
+        }
+      ],
+      "roll-for-me": [
+        {
+          "changes": {
+            "icon": "lucide-dices",
+            "color": "83, 223, 221"
+          }
+        }
+      ],
+      "puzzle": [
+        {
+          "changes": {
+            "icon": "lucide-puzzle",
+            "color": "83, 223, 221"
+          }
+        }
+      ],
+      "setting": [
+        {
+          "changes": {
+            "icon": "lucide-trees",
+            "color": "68, 207, 110"
+          }
+        }
+      ],
+      "links": [
+        {
+          "changes": {
+            "icon": "link",
+            "color": "233, 151, 63"
+          }
+        }
+      ],
+      "characters": [
+        {
+          "changes": {
+            "icon": "lucide-users",
+            "color": "161, 106, 73"
+          }
+        }
+      ],
+      "design": [
+        {
+          "changes": {
+            "icon": "lucide-paintbrush",
+            "color": "82, 139, 212"
+          }
+        }
+      ],
+      "tools": [
+        {
+          "changes": {
+            "icon": "lucide-wrench",
+            "color": "227, 107, 167"
+          }
+        }
+      ],
+      "characteristics": [
+        {
+          "changes": {
+            "icon": "lucide-palette"
+          }
+        }
+      ],
+      "image": [
+        {
+          "changes": {
+            "icon": "lucide-camera",
+            "color": "158, 158, 158"
+          }
+        }
+      ],
+      "profile": [
+        {
+          "changes": {
+            "icon": "lucide-users",
+            "color": "208, 181, 48"
+          }
+        }
+      ],
+      "rewards": [
+        {
+          "changes": {
+            "icon": "lucide-dollar-sign",
+            "color": "208, 181, 48"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

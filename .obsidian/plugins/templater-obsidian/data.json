@@ -1,0 +1,52 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "zz-Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "Characters",
+      "template": "zz-Templates/Game Design/Character Profile Template.md"
+    },
+    {
+      "folder": "Quests",
+      "template": "zz-Templates/Game Design/Quest Template.md"
+    },
+    {
+      "folder": "Enemies",
+      "template": "zz-Templates/Game Design/Enemy Template.md"
+    },
+    {
+      "folder": "Locations",
+      "template": "zz-Templates/Game Design/Location Template.md"
+    },
+    {
+      "folder": "Scenes",
+      "template": "zz-Templates/Game Design/Scene Template.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}

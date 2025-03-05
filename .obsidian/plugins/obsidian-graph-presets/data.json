@@ -1,0 +1,19 @@
+{
+  "version": "0.8.0",
+  "data": {
+    "presets": {}
+  },
+  "preferences": {
+    "enablePresetCommands": true,
+    "presetsFolder": "zz-Templates/Graph Presets",
+    "sortBy": "presetNameAsc",
+    "markdownPresets": {
+      "inlineSearchQuery": false,
+      "inlineColorGroups": false
+    },
+    "restoreZoom": true,
+    "restoreCollapsedState": true,
+    "globalFilter": "",
+    "autoApplyPreset": true
+  }
+}
