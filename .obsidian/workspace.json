@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "d603b19a0b338eb1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Mechanics/Combat Cinematics Flowchart.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Combat Cinematics Flowchart"
-            }
-          },
-          {
             "id": "a8a242d671387b96",
             "type": "leaf",
             "state": {
@@ -44,21 +32,19 @@
             }
           },
           {
-            "id": "953a287bf31c0a84",
+            "id": "6020302c04cf6f4b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Quests/Limited Time Event.md",
-                "mode": "source",
-                "source": false
+                "file": "Mechanics/Combat Cinematics Flowchart.md"
               },
-              "icon": "lucide-file",
-              "title": "Limited Time Event"
+              "icon": "excalidraw-icon",
+              "title": "Combat Cinematics Flowchart"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -268,25 +254,27 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "00258a38e2509e53",
+  "active": "a8a242d671387b96",
   "lastOpenFiles": [
-    "1. Images/Combat Cinematics/Pasted Image 20241202162712_494.png",
-    "1. Images/Combat Cinematics/Critical - Both.png",
-    "1. Images/Combat Cinematics/2025-02-22_17-50-24.jpg",
-    "1. Images/Combat Cinematics/2025-02-22_17-58-07.jpg",
-    "1. Images/Combat Cinematics/75hp party.jpg",
-    "1. Images/Combat Cinematics/75hp enemy.jpg",
-    "1. Images/Combat Cinematics/75hp both.jpg",
-    "1. Images/Combat Cinematics/10hp+both.gif",
-    "1. Images/Combat Cinematics/Stage+Break.gif",
-    "1. Images/Combat Cinematics/SAO_9.gif",
-    "1. Images/Combat Cinematics/SAO_7.gif",
+    "Mechanics/Combat Cinematics Flowchart.md",
+    "1. Images/Combat Cinematics/new battle phase.gif",
+    "1. Images/Combat Cinematics/new battle pahse.gif",
+    "1. Images/Combat Cinematics/SAO_1.gif",
+    "1. Images/Combat Cinematics/combined tech.gif",
+    "Quests/Who Am I.md",
+    "Quests/HELP.md",
+    "1. Images/Combat Cinematics/combined+tech.gif",
+    "1. Images/Combat Cinematics/com,bined tech.gif",
+    "1. Images/Combat Cinematics/3ayzox049xj91.gif",
+    "1. Images/Combat Cinematics/50hp both.png",
+    "1. Images/Combat Cinematics/Un Used/50hp both.png",
+    "1. Images/Combat Cinematics/10hp+enemy.gif",
+    "1. Images/Combat Cinematics/Un Used",
+    "0. Home Page.md",
+    "Quests/Limited Time Event.md",
     "1. Images/Combat Cinematics",
     "1. Images/New folder",
-    "Mechanics/Combat Cinematics Flowchart.md",
-    "0. Home Page.md",
     "Quests/Phase 1.md",
-    "Quests/Limited Time Event.md",
     "Enemies/The Original Sin.md",
     "Locations/Upside-down Castle.md",
     "Locations/Hub Town.md",
@@ -309,13 +297,10 @@
     "Mechanics/To Sort/Drawing 2025-02-14 19.31.16.excalidraw.md",
     "zz-To-Sort/Drawing 2024-12-01 01.10.43.excalidraw.md",
     "zz-To-Sort/Dialogue Ideas.md",
-    "zz-To-Sort/Character Ideas.md",
-    "zz-To-Sort/AI Art Prompts.md",
     "1. Images/zz-To Sort/e6u9i4fijz8e1.jfif",
     "1. Images/Swap of Rot",
     "1. Images/Abomination",
     "1. Images/Helba/kud7hc62ggee1.mp4",
-    "1. Images/zz-To Sort/Sotyboarding",
     "Otakon Stuff/Untitled.canvas"
   ]
 }

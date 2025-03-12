@@ -5,6 +5,58 @@
       "path": "Mechanics/Combat Cinematics Flowchart.md"
     },
     {
+      "basename": "combined tech",
+      "path": "1. Images/Combat Cinematics/combined tech.gif"
+    },
+    {
+      "basename": "Who Am I",
+      "path": "Quests/Who Am I.md"
+    },
+    {
+      "basename": "HELP",
+      "path": "Quests/HELP.md"
+    },
+    {
+      "basename": "critical hit",
+      "path": "1. Images/Combat Cinematics/critical hit.gif"
+    },
+    {
+      "basename": "summon+tech",
+      "path": "1. Images/Combat Cinematics/summon+tech.gif"
+    },
+    {
+      "basename": "Ultimate Technique",
+      "path": "1. Images/Combat Cinematics/Ultimate Technique.gif"
+    },
+    {
+      "basename": "tech",
+      "path": "1. Images/Combat Cinematics/tech.gif"
+    },
+    {
+      "basename": "surprise attack",
+      "path": "1. Images/Combat Cinematics/surprise attack.gif"
+    },
+    {
+      "basename": "faceoff1",
+      "path": "1. Images/Combat Cinematics/faceoff1.gif"
+    },
+    {
+      "basename": "faceoff2",
+      "path": "1. Images/Combat Cinematics/faceoff2.gif"
+    },
+    {
+      "basename": "stage break",
+      "path": "1. Images/Combat Cinematics/stage break.gif"
+    },
+    {
+      "basename": "critical block",
+      "path": "1. Images/Combat Cinematics/critical block.gif"
+    },
+    {
+      "basename": "Finishing+Blow",
+      "path": "1. Images/Combat Cinematics/Finishing+Blow.gif"
+    },
+    {
       "basename": "0. Home Page",
       "path": "0. Home Page.md"
     },
@@ -143,54 +195,6 @@
     {
       "basename": "The Harbinger",
       "path": "Enemies/The Harbinger.md"
-    },
-    {
-      "basename": "Office Building",
-      "path": "Locations/Office Building.md"
-    },
-    {
-      "basename": "Coastal Village",
-      "path": "Locations/Coastal Village.md"
-    },
-    {
-      "basename": "Cult Leader",
-      "path": "Characters/Cult Leader.md"
-    },
-    {
-      "basename": "Sewers",
-      "path": "Locations/Sewers.md"
-    },
-    {
-      "basename": "Hatobu Quest",
-      "path": "Quests/Hatobu Quest.md"
-    },
-    {
-      "basename": "City Riots",
-      "path": "Scenes/City Riots.md"
-    },
-    {
-      "basename": "Bubbles",
-      "path": "Characters/Bubbles.md"
-    },
-    {
-      "basename": "It's Too Hard",
-      "path": "Quests/It's Too Hard.md"
-    },
-    {
-      "basename": "Ophelia",
-      "path": "Characters/Ophelia.md"
-    },
-    {
-      "basename": "Out of Bounds",
-      "path": "Locations/Out of Bounds.md"
-    },
-    {
-      "basename": "Sewer Cultists",
-      "path": "Enemies/Sewer Cultists.md"
-    },
-    {
-      "basename": "BBS",
-      "path": "Mechanics/BBS.md"
     }
   ],
   "omittedPaths": [],
