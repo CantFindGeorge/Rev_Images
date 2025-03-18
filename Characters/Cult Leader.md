@@ -8,7 +8,7 @@ mood_board: true
 >[!multi-column]
 >![[Cult-Leader-Portrait.jpg]]
 >
->
+>>
 
 ---
 ## 📚 Profile

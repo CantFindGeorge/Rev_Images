@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "❕",
       "🏠",
       "🎥",
       "😈",
-      "LiSettings",
-      "❗"
+      "LiSettings"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,8 +37,6 @@
   "zz-Templates": "📋",
   "Characters": "🧑‍🤝‍🧑",
   "Locations": "⛳",
-  "Concept Drawings": "✏",
-  "Quests": "❗",
   "Mechanics": "LiSettings",
   "Mood-Boards": "🎨",
   "Enemies": "😈",
@@ -47,5 +45,7 @@
   "Scenes": "🎥",
   "1. Images": "🖼",
   "zz-To-Sort": "📊",
-  "0. Home Page.md": "🏠"
+  "0. Home Page.md": "🏠",
+  "Quests - Main": "❗",
+  "Quests - Side": "❕"
 }

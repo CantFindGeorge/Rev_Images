@@ -25,22 +25,26 @@
             "id": "a8a242d671387b96",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "zz-To-Sort/AI Art Prompts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI Art Prompts"
             }
           },
           {
-            "id": "6020302c04cf6f4b",
+            "id": "f43f61623d868db9",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Mechanics/Combat Cinematics Flowchart.md"
+                "file": "Mechanics/To Sort/Westworld episode layout.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Combat Cinematics Flowchart"
+              "title": "Westworld episode layout"
             }
           }
         ],
@@ -176,12 +180,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Home Page.md",
+                "file": "zz-To-Sort/AI Art Prompts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 0. Home Page"
+              "title": "Outgoing links from AI Art Prompts"
             }
           },
           {
@@ -256,51 +260,52 @@
   },
   "active": "a8a242d671387b96",
   "lastOpenFiles": [
-    "Mechanics/Combat Cinematics Flowchart.md",
+    "0. Home Page.md",
+    "Mechanics/To Sort/Westworld episode layout.md",
+    "Mechanics/Attack Menu.md",
+    "1. Images/Combat Cinematics/stage break.gif",
+    "Mechanics/To Sort/Class System.md",
+    "1. Images/Mechanics/RO-Classes.webp",
+    "Characters/Balmung.md",
+    "Characters/Ophelia.md",
+    "Quests - Side",
+    "Characters/Bubbles.md",
+    "Characters/Ash.md",
+    "Characters/William.md",
+    "Characters/Village Elder.md",
+    "Characters/Towely.md",
+    "Characters/Sewer Rat.md",
+    "Characters/Sebby.md",
+    "Characters/Saya.md",
+    "Characters/RMTer.md",
+    "Characters/Risu.md",
+    "Characters/Riko & Hana.md",
+    "Characters/Power Surge Guy.md",
+    "Characters/Orca.md",
+    "Characters/Michael.md",
+    "1. Images/Michael/Michael-Portrait.jpeg",
+    "Characters/Mia.md",
+    "Characters/Madison.md",
+    "Characters/M.md",
+    "Characters/Linx.md",
+    "Characters/Homeless Man.md",
+    "Characters/Hermit.md",
+    "1. Images/Combat Cinematics/50hp player.jpg",
+    "1. Images/Combat Cinematics/Pasted Image 20241202162712_494.png",
+    "1. Images/Combat Cinematics/2025-02-22_17-58-07.jpg",
     "1. Images/Combat Cinematics/new battle phase.gif",
     "1. Images/Combat Cinematics/new battle pahse.gif",
     "1. Images/Combat Cinematics/SAO_1.gif",
     "1. Images/Combat Cinematics/combined tech.gif",
-    "Quests/Who Am I.md",
-    "Quests/HELP.md",
-    "1. Images/Combat Cinematics/combined+tech.gif",
-    "1. Images/Combat Cinematics/com,bined tech.gif",
-    "1. Images/Combat Cinematics/3ayzox049xj91.gif",
-    "1. Images/Combat Cinematics/50hp both.png",
-    "1. Images/Combat Cinematics/Un Used/50hp both.png",
-    "1. Images/Combat Cinematics/10hp+enemy.gif",
     "1. Images/Combat Cinematics/Un Used",
-    "0. Home Page.md",
-    "Quests/Limited Time Event.md",
     "1. Images/Combat Cinematics",
     "1. Images/New folder",
-    "Quests/Phase 1.md",
-    "Enemies/The Original Sin.md",
-    "Locations/Upside-down Castle.md",
-    "Locations/Hub Town.md",
-    "Characters/Balmung.md",
-    "Locations/Dev Area.md",
-    "Characters/William.md",
-    "Locations/Radio Tower.md",
-    "Quests/For the Birds.md",
-    "Locations/Church.md",
-    "Locations/Cyber Slum.md",
     "1. Images/Helba/m2-res_1080p.mp4",
-    "Enemies/Sea Monster.md",
-    "Characters/Hatobu.md",
     "1. Images/Combat Background Cinematic/Unused",
     "1. Images/Combat Background Cinematic/New folder",
-    "Scenes/To Sort/8 Waves Ending.md",
-    "zz-To-Sort/Marketing Plan.md",
-    "zz-To-Sort/GDD Examples.md",
-    "Concept Drawings/Drawing 2025-01-12 21.50.52.excalidraw.md",
-    "Mechanics/To Sort/Drawing 2025-02-14 19.31.16.excalidraw.md",
-    "zz-To-Sort/Drawing 2024-12-01 01.10.43.excalidraw.md",
-    "zz-To-Sort/Dialogue Ideas.md",
     "1. Images/zz-To Sort/e6u9i4fijz8e1.jfif",
     "1. Images/Swap of Rot",
     "1. Images/Abomination",
-    "1. Images/Helba/kud7hc62ggee1.mp4",
     "Otakon Stuff/Untitled.canvas"
   ]
 }

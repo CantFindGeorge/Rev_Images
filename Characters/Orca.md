@@ -8,7 +8,7 @@ mood_board: true
 >[!multi-column]
 >![[Orca-Character-Portrait.jpg]]
 >
->
+>>
 
 ---
 ## 📚 Profile

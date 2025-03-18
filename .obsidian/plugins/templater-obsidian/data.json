@@ -15,12 +15,16 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "Characters",
-      "template": "zz-Templates/Game Design/Character Profile Template.md"
+      "folder": "Quests - Main",
+      "template": "zz-Templates/Game Design/Quest Template.md"
     },
     {
-      "folder": "Quests",
+      "folder": "Quests - Side",
       "template": "zz-Templates/Game Design/Quest Template.md"
+    },
+    {
+      "folder": "Characters",
+      "template": "zz-Templates/Game Design/Character Profile Template.md"
     },
     {
       "folder": "Enemies",

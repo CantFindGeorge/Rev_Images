@@ -3,29 +3,53 @@ tags:
   - profile
 mood_board: true
 ---
-# Name
+
+# Madison
 
 >[!multi-column]
->> [!image]
->>![[Madison-Portrait.jpeg]]
->>[Mood Board]()
+>![[Madison-Portrait.jpeg]]
 >
->> [!profile]
->>- Class: 
->>- Weapon: 
->>- Origin: 
->>- Age: ?? (?)
->>- Name: 
->>- Occupation: 
+>![[Madison-Sprite-Sheet.jpeg]]
+
+---
+## 📚 Profile
+
+- Class: 
+- Weapon: 
+- Origin: 
+- Age: ?? (?)
+- Name: 
+- Occupation: 
+
+---
+## 💅 Appearance
+
+- 
+
+---
+## 🏁 Goals
+
+### - External
+1. 
+
+### - Internal
+ 1. 
+
+---
 ## 🎨 Characteristics
 
 - 
 
-> [!music]-
-> - 
-<p></p>
 ---
-# 🤝 Relationships
+## 📖 Story Beats & Quests
+### - Story Beats
+- 
+
+### - Quests
+- 
+
+---
+## 🤝 Relationships
 
 >[!multi-column]
 >> ### Friends
@@ -41,42 +65,26 @@ mood_board: true
 >> -
 
 ---
-# ⛳ Motivations & Goals
-
-#### External
-- 
-- 
-#### Internal
-- 
-- 
-
----
-# 💅 Appearance
+## 🎵 Music
 
 - 
 
 ---
-# ⚔ Skills & Combat
+## 💭 Concepts 
 
 - 
 
 ---
-# 💬 Personality
-## - Micro Personality
-1. 
-2. 
-3. 
-4. 
-## - Quirks / Habits
+## ⚔ Skills & Combat
 
 - 
 
 ---
-# 🎤 Voice Actor Info
+## 🎤 Voice Actor Info
 
-## - Direction
-
+### - Direction
 - 
-## - Other Notes
+
+### - Other Notes
 - Voice Actor:
 - Recording Device: 

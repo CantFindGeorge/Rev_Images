@@ -7,6 +7,8 @@ mood_board: true
 
 >[!multi-column]
 >![[Homeless-Man-Portrait.jpg]]
+>
+>>
 
 ---
 ## 📚 Profile

@@ -6,26 +6,49 @@ mood_board: true
 # Village Elder
 
 >[!multi-column]
->> [!image]
->>![[Village-Elder-Portrait.jpg]]
->>[Mood Board]()
+>![[Village-Elder-Portrait.jpg]]
 >
->> [!profile]
->>- Class: 
->>- Weapon: 
->>- Origin: 
->>- Age: ?? (?)
->>- Name: 
->>- Occupation: 
+>>
+
+---
+## 📚 Profile
+
+- Class: 
+- Weapon: 
+- Origin: 
+- Age: ?? (?)
+- Name: 
+- Occupation: 
+
+---
+## 💅 Appearance
+
+- 
+
+---
+## 🏁 Goals
+
+### - External
+1. 
+
+### - Internal
+ 1. 
+
+---
 ## 🎨 Characteristics
 
 - 
 
-> [!music]-
-> - 
-<p></p>
 ---
-# 🤝 Relationships
+## 📖 Story Beats & Quests
+### - Story Beats
+- 
+
+### - Quests
+- 
+
+---
+## 🤝 Relationships
 
 >[!multi-column]
 >> ### Friends
@@ -41,42 +64,26 @@ mood_board: true
 >> -
 
 ---
-# ⛳ Motivations & Goals
-
-#### External
-- 
-- 
-#### Internal
-- 
-- 
-
----
-# 💅 Appearance
+## 🎵 Music
 
 - 
 
 ---
-# ⚔ Skills & Combat
+## 💭 Concepts 
 
 - 
 
 ---
-# 💬 Personality
-## - Micro Personality
-1. 
-2. 
-3. 
-4. 
-## - Quirks / Habits
+## ⚔ Skills & Combat
 
 - 
 
 ---
-# 🎤 Voice Actor Info
+## 🎤 Voice Actor Info
 
-## - Direction
-
+### - Direction
 - 
-## - Other Notes
+
+### - Other Notes
 - Voice Actor:
 - Recording Device: 

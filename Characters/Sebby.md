@@ -8,7 +8,7 @@ mood_board: true
 >[!multi-column]
 >![[Sebby-Portrait.jpg]]
 >
->
+>![[Sebby-Spirte-Sheet.jpg]]
 
 ---
 ## 📚 Profile

@@ -8,7 +8,7 @@ mood_board: true
 >[!multi-column]
 >![[Towely-Portrait.jpeg]]
 >
->
+>>
 
 ---
 ## 📚 Profile

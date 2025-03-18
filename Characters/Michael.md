@@ -6,9 +6,9 @@ mood_board: true
 # Michael
 
 >[!multi-column]
->![[2024-07-01_17-19-52_3255.jpeg]]
+>![[Michael-Portrait.jpeg]]
 >
->
+>>
 
 ---
 ## 📚 Profile

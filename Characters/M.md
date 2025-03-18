@@ -8,7 +8,7 @@ mood_board: true
 >[!multi-column]
 >![[M-IRL-Character-Portrait.jpg]]
 >
->
+>>
 
 ---
 ## 📚 Profile

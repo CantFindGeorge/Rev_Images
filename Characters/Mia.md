@@ -8,7 +8,7 @@ mood_board: true
 >[!multi-column]
 >![[Mia-Portrait.jpg]]
 >
->
+>>
 
 ---
 ## 📚 Profile

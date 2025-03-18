@@ -3,12 +3,12 @@ tags:
   - profile
 mood_board: true
 ---
-# Name
+# Fisherman
 
 >[!multi-column]
 >![[Fisherman-Portrait.jpg]]
 >
->
+>![[Fisherman-Spirte-Sheet.jpg]]
 
 ---
 ## 📚 Profile
